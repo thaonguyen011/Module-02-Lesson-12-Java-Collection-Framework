@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a560f16-7ca0-4f17-8baf-984d83b4aa6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyGenericStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/ArrayPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/Demerging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/src/Demerging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/Demerging/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/checkBracket/checkBracket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/checkBracket/src/CheckBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/checkBracket/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/isPalindrome/isPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/isPalindrome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/isPalindrome/src/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/ArrayPractice/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/GenericStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/IntegerArrayReverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/src/IntegerArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/src/IntegerArrayReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/IntegerArrayReverse/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/QueueExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueueExercise/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueuePractice/QueuePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueuePractice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/QueuePractice/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/MyLinkedListQueue/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/src/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/src/GenericStackClient_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/MyGenericStack/src/MyGenericStack_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/java/lang/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-Stack-Queue/Practice-Exercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Execise-01/Calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/Test/FizzBuzzTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/Test/FizzBuzzTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/FizzBuzz/src/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/NextDay/NextDay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/NextDay/NextDay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/out/production/FizzBuzz/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/out/production/FizzBuzz/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/out/test/FizzBuzz/FizzBuzzTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-AutomatedTesting-TDD/Practice-Exercise-01/out/test/FizzBuzz/FizzBuzzTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-02/Java-Overview/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT1/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Array-02/BT2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Bài-tập-html.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/CV.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Nháp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Nháp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Bài-tập-html/Tạo danh sach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Form-Table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Function-01/TH1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Kanban.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-08-31 at 09.10.35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-02 at 16.32.08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-03 at 17.22.03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-05 at 08.57.16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-05 at 16.15.49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Screenshot 2023-09-06 at 09.35.53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/Thuyết trình nhóm 4.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/avatar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Hình ảnh/course-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/JS-Overview/TH1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/Form-Table.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/Git-Html.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/Note/~$rm-Table.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/Git-demo-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/GitProject/GitProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module-1/git/git-demo" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2X0gNyjqQQLQ9laVOMqQjjYpvow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/apple/Desktop/Codegym /Module-02-Java/12-Map-Tree/Practice-Exercise/BST/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProductManegement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practice-Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMap" />
+      <module name="Testmap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a560f16-7ca0-4f17-8baf-984d83b4aa6d" name="Changes" comment="" />
+      <created>1697770812537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697770812537</updated>
+      <workItem from="1697770813732" duration="547000" />
+      <workItem from="1697771376888" duration="22045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Testmap/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BST/src/BST.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BST/src/BST.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BST/src/BST.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BST/src/BST.java</url>
+          <line>54</line>
+          <properties class="BST" method="inorder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice_Exercise$Main.ic" NAME="Main Coverage Results" MODIFIED="1697773278304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
